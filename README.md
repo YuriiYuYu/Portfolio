@@ -1,13 +1,14 @@
 ## Hi there 👋
 
-#Data Analyst.
+# Data Analyst.
 
-###Education
+### Education
 Economics.
 
 ### Workexperience
-Banking
-E-commerce
+Banking,
+E-commerce (Analyst),
+Consulting Projects (freelance)
 
 ### Projects
 
