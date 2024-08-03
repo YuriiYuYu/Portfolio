@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+#Data Analyst.
+
+###Education
+Economics.
+
+### Workexperience
+Banking
+E-commerce
+
+### Projects
+
 <!--
 **YuriiYuYu/YuriiYuYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
