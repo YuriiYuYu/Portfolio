@@ -5,7 +5,7 @@
 ### Education
 Economics.
 
-### Workexperience
+### Work experience
 Banking,
 E-commerce (Analyst),
 Consulting Projects (freelance)
