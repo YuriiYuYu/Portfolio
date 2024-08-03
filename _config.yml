@@ -2,4 +2,4 @@ title: Yurii Yuriev
 logo: /CV/PHOTO.jpg
 #description: text below image
 show_downloads: true
-remote-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
